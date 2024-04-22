@@ -3,7 +3,13 @@
 ```
 cd $HOME && curl -o script.sh https://raw.githubusercontent.com/ReguideWIKI/ReLabs-TrustedSetup-RISC-Zero/main/script.sh && bash script.sh
 ```
-Sau đó chạy screen -S risc
+Sau đó chạy 
+```
+screen -S risc
+source ~/.nvm/nvm.sh
+mkdir ~/p0tion-tmp
+cd ~/p0tion-tmp
+```
 
 **Contributing to the Ceremony :
 **
