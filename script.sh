@@ -15,6 +15,7 @@ sh install_nvm.sh
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+source ~/.nvm/nvm.sh
 
 # Installer NodeJS (16.20) requirement
 nvm install 16.20
