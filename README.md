@@ -7,7 +7,6 @@ Sau đó chạy
 ```
 screen -S risc
 source ~/.nvm/nvm.sh
-mkdir ~/p0tion-tmp
 cd ~/p0tion-tmp
 ```
 
